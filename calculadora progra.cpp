@@ -55,10 +55,6 @@ void pedirdat (){
 
  	cout<< " TU SUMA ES=" <<suma<<endl;
  	
- }
- void resta(float s,float q){
- 	float resta = s - q;
- 	cout<< " TU RESTA ES=" <<resta<<endl;
- 	
+ 
  }
  
